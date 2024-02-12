@@ -56,9 +56,6 @@ The program measures the time taken to perform operations and prints it at the e
 
 - Java (JDK)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 ```
 
 Feel free to adjust and modify the content as needed for your specific preferences or to provide more details about your code.
