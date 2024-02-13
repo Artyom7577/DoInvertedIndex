@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
 
+
+//fegerkekrkfrjejver
+
 /**
  * The InvertedIndex class represents a simple inverted index with basic operations.
  * It allows building an inverted index, displaying the term-document matrix,
